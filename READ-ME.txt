@@ -1,0 +1,2 @@
+the model is trained to detect cats and dogs within the vidoes
+the model is not trained to detect cats and dogs only
