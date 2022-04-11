@@ -1,2 +1,3 @@
-the model is trained to detect cats and dogs within the vidoes
+the model is trained to detect cats and dogs within the vidoes uploaded
 the model is not trained to detect cats and dogs only
+the model was created by Samuel T Muto and Ropafadzo Nancy Mhandu
