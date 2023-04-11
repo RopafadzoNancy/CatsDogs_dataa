@@ -1,4 +1,4 @@
-the model is trained to detect cats and dogs within the vidoes uploaded
+the model is trained to detect cats and dogs within the videos uploaded
 the model is trained to detect cats and dogs only
-the model was created by Samuel T Muto R204560P and Ropafadzo Nancy Mhandu R207324W
+the model was created by Samuel T Muto and Ropafadzo Nancy Mhandu, Computer Science students at the University of Zimbabwe
 Here is the link to the youtube video we made; https://youtu.be/lBfMq0T7gGU
